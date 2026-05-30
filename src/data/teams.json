@@ -1,0 +1,71 @@
+{
+  "teams": [
+    {
+      "id": "france",
+      "name": "France",
+      "nickname": "Les Bleus",
+      "flag": "/flags/fr.svg",
+      "crest": "/crests/fff.png",
+      "capital": "Paris",
+      "coordinates": [48.8566, 2.3522],
+      "group": "I",
+      "worldCups": [
+        { "year": 1998, "host": "France" },
+        { "year": 2018, "host": "Russie" }
+      ],
+      "kit": {
+        "home": "/kits/france_home.jpg",
+        "away": "/kits/france_away.jpg"
+      },
+      "squad": [
+        {
+          "name": "Kylian Mbappé",
+          "position": "Attaquant",
+          "club": "Real Madrid",
+          "age": 27,
+          "number": 10
+        },
+        {
+          "name": "Hugo Lloris",
+          "position": "Gardien",
+          "club": "Los Angeles FC",
+          "age": 40,
+          "number": 1
+        }
+      ],
+      "fixtures": [
+        { "date": "2026-06-12", "opponent": "Sénégal", "time": "21:00", "stadium": "Stade de Boston", "phase": "Groupe I" },
+        { "date": "2026-06-18", "opponent": "Norvège", "time": "18:00", "stadium": "Stade de New York", "phase": "Groupe I" },
+        { "date": "2026-06-24", "opponent": "Bolivie", "time": "20:00", "stadium": "Stade de Houston", "phase": "Groupe I" }
+      ]
+    },
+    {
+      "id": "senegal",
+      "name": "Sénégal",
+      "nickname": "Les Lions de la Teranga",
+      "flag": "/flags/sn.svg",
+      "crest": "/crests/senegal.png",
+      "capital": "Dakar",
+      "coordinates": [14.6937, -17.4441],
+      "group": "I",
+      "worldCups": [],
+      "kit": {
+        "home": "/kits/senegal_home.jpg",
+        "away": "/kits/senegal_away.jpg"
+      },
+      "squad": [
+        {
+          "name": "Sadio Mané",
+          "position": "Attaquant",
+          "club": "Al-Nassr",
+          "age": 34,
+          "number": 10
+        }
+      ],
+      "fixtures": [
+        { "date": "2026-06-12", "opponent": "France", "time": "21:00", "stadium": "Stade de Boston", "phase": "Groupe I" },
+        { "date": "2026-06-18", "opponent": "Norvège", "time": "15:00", "stadium": "Stade de Toronto", "phase": "Groupe I" }
+      ]
+    }
+  ]
+}
