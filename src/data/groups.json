@@ -1,0 +1,12 @@
+{
+  "groups": [
+    {
+      "name": "Groupe I",
+      "teams": ["france", "senegal", "norvege", "bolivie"]
+    },
+    {
+      "name": "Groupe A",
+      "teams": ["mexique", "afrique-du-sud", "coree-du-sud", "tchequie"]
+    }
+  ]
+}
