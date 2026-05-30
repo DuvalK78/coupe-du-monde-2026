@@ -1,0 +1,9 @@
+{
+  "winners": [
+    { "country": "Brésil", "titles": 5, "years": [1958, 1962, 1970, 1994, 2002] },
+    { "country": "Allemagne", "titles": 4, "years": [1954, 1974, 1990, 2014] },
+    { "country": "Italie", "titles": 4, "years": [1934, 1938, 1982, 2006] },
+    { "country": "Argentine", "titles": 3, "years": [1978, 1986, 2022] },
+    { "country": "France", "titles": 2, "years": [1998, 2018] }
+  ]
+}
