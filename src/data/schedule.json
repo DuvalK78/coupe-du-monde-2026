@@ -1,0 +1,22 @@
+{
+  "matches": [
+    {
+      "date": "2026-06-11",
+      "time": "21:00",
+      "team1": "Mexique",
+      "team2": "Afrique du Sud",
+      "stadium": "Estadio Azteca, Mexico",
+      "group": "A",
+      "phase": "Phase de groupes"
+    },
+    {
+      "date": "2026-06-12",
+      "time": "21:00",
+      "team1": "France",
+      "team2": "Sénégal",
+      "stadium": "Stade de Boston",
+      "group": "I",
+      "phase": "Phase de groupes"
+    }
+  ]
+}
